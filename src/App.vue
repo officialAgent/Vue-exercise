@@ -2,22 +2,17 @@
   <div class="font-sans bg-gray-900 text-white"  id="app">
 
     <Header />
-    <MainContent/>
-    <ShowTeacher/>
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue'
-import MainContent from "@/components/MainContent";
-import ShowTeacher from "@/components/ShowTeacher";
 
 export default {
   name: 'App',
   components: {
-    Header,
-    MainContent,
-    ShowTeacher
+    Header
 
   }
 }

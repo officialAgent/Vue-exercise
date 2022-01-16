@@ -3,13 +3,13 @@
           <div class="popular-teachers">
             <h2 class="uppercase tracking-wider text-yellow-500 text-lg font-semibold">Popular Teachers</h2>
 
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5  gap-16" >
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4  gap-16" >
 
               <div class="mt-8">
                 <a href="#">
                   <img src="https://www.whatsappprofiledpimages.com/wp-content/uploads/2021/08/Profile-Photo-Wallpaper.jpg" alt="profile_picture" class="hover:opacity-75 transition ease-in-out duration-150">
                 </a>
-                <div class="mt-2">
+                <div class="mt-2 ">
                   <a href="#" class="text-lg mt-2 hover:text-gray-300">
                     Nagy Vivien
                   </a>

@@ -1,5 +1,5 @@
 <template>
-<div class="teacher-info border-b border-gray-800">
+<div class="teacher-info border-b border-gray-800 h-screen">
   <div class="container mx-auto px-4 py-16 flex ">
     <img src="https://www.whatsappprofiledpimages.com/wp-content/uploads/2021/08/Profile-Photo-Wallpaper.jpg" alt="profile_picture" class="w-96" style="width: 24rem">
     <div class="ml-24">
